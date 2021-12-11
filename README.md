@@ -22,6 +22,6 @@ Uses JWT authentication to secure the REST endpoints. The UI is responsive i.e. 
 - For now there is support for only one seller.
 
 The app is live:
-- Login/Registration are common for all the users.
-- And only a seller can add, edit and delete products.
-- For now there is support for only one seller.
+- Frontend is deployed on Netlify
+- Backend on Heroku
+- Database on MongoDB ATLAS
