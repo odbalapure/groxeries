@@ -2,8 +2,8 @@
 
 Groxeries is a MERN app, where a user can order grocery items.
 
-**Netlify Link:** https://groxeries.netlify.app/
-**Heroku Link:** https://ekart-express-api.herokuapp.com/api/v1/products
+- **Netlify Link:** https://groxeries.netlify.app/
+- **Heroku Link:** https://ekart-express-api.herokuapp.com/api/v1/products
 
 ### Demo credentials
 - **Admin**: haribalapure@gmail.com (secret)
