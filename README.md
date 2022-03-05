@@ -6,7 +6,7 @@ Groxeries is a MERN app, where a user can order grocery items.
 **Heroku Link:** https://ekart-express-api.herokuapp.com/api/v1/products
 
 ### Demo credentials
-- **Admin**: harishbalapure@gmail.com (secret)
+- **Admin**: haribalapure@gmail.com (secret)
 - **User**: ombalapure7@gmail.com (secret)
 
 ## Functionalities provided to a user:
