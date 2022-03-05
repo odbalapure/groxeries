@@ -14,13 +14,9 @@ Groxeries is a MERN app, where a user can order grocery items.
 - Search for grocery items
 - Adding/Removing items to/from the cart
 - Place an order
+- Online payment option (RazorPay)
 
 ## Functionalities provided to a seller:
 - See list of orders
 - Add grocery items
 - Delete/Edit grocery items
-
-**NOTE:**
-- Login/Registration are common for all the users.
-- And only a seller can add, edit and delete products.
-- For now there is support for only one seller.
