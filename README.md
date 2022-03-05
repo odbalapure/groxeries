@@ -9,13 +9,13 @@ Groxeries is a MERN app, where a user can order grocery items.
 - **Admin**: harishbalapure@gmail.com (secret)
 - **User**: ombalapure7@gmail.com (secret)
 
-### Functionalities provided to a user:
+## Functionalities provided to a user:
 - Seeing list of grocery items
 - Search for grocery items
 - Adding/Removing items to/from the cart
 - Place an order
 
-### Functionalities provided to a seller:
+## Functionalities provided to a seller:
 - See list of orders
 - Add grocery items
 - Delete/Edit grocery items
