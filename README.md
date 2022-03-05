@@ -1,4 +1,4 @@
-# groxeries-mern-app
+# Groxeries
 
 Groxeries is a MERN app, where a user can order grocery items.
 
